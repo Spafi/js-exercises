@@ -1,0 +1,15 @@
+{
+    "name": "exercises",
+    "version": "1.0.0",
+    "description": "",
+    "main": "exercises.js",
+    "scripts": {
+        "test-exercises-1": "npx jest exercises-1.test.js"
+    },
+    "author": "Spaf",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.5.0"
+    }
+}
+
